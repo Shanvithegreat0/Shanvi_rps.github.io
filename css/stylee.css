@@ -28,6 +28,7 @@ h1{
     align-items: center;
     justify-content: center;
     height: 50px;
+    font-size:5px;
     
 }
 .info span , .info h3{
